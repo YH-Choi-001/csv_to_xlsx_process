@@ -18,3 +18,7 @@ This program applies styling to a CSV table outputed from merge_csv.
 4. Go to "Automate" Tab.
 5. Right click the script "csv to xlsx process".
 6. Run this script.
+
+---
+
+Copyright (c) 2025 Pentastic Security Limited. All rights reserved.

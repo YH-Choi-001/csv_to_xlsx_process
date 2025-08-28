@@ -3,6 +3,7 @@
  * @brief Applies formatting to XLSX files from merged nessus CSV file.
  * @author David Choi <david.choi@pentastic.hk>
  * @version 2025.08.28
+ * @copyright Copyright (c) 2025 Pentastic Security Limited. All rights reserved.
  */
 
 /**
