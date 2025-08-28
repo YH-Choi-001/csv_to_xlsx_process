@@ -1,0 +1,6 @@
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Do not commit testing data to the repo
+*.xlsx
