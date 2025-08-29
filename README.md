@@ -19,6 +19,9 @@ This program applies styling to a CSV table outputed from merge_csv.
 5. Right click the script "csv to xlsx process".
 6. Run this script.
 
+## Client
+Josh
+
 ---
 
 Copyright (c) 2025 Pentastic Security Limited. All rights reserved.
